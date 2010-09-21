@@ -1,0 +1,15 @@
+** XMMS epplet (E-xmms) by Phil Warner (locutus@xmission.com) **
+** Original Author: Evan Songer (esonger@clarku.edu) **
+
+REQUIREMENTS
+---------------
+Enlightenment Window Manager 0.16.x (http://enlightenment.org)
+XMMS
+
+It builds using epplets-0.7, which can be obtained from the E site.
+
+Please email me any comments, questions and bug reports
+
+Current Maintainer
+------------------
+Phil Warner (locutus@xmission.com)

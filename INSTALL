@@ -1,0 +1,7 @@
+To install the E-xmms:
+
+make
+(su to root)
+make install
+
+:)have a nice day

@@ -1,0 +1,41 @@
+2004-08-17
+E-xmms 1.3.2
+	* Added comparison of previous and current state
+	  to determine if window painting should be done
+	* Added new handler to make adding icons much easier
+	* Added more icons, thanks to the many users who
+	  submit them to xmms.org (some icons were slightly 
+	  modified for size and appearance)
+	* Fixed volume handler for smoother control
+	* Minor code clean up
+
+2002-12-23
+E-xmms 1.3.1
+	* Fixed a memory leak related to Title scroll
+	* Added jump to position using the progress bar
+	* Modified appearance of progress bar if stream
+	  is/is not playing
+	* Code reorganization
+
+E-xmms 1.3
+	* Added icons from xmms.org
+	  configuration window to allow icon change
+	* Modified the playlist_title display
+	* Added changes from Matt DeLuco <duke@spacebox.net>
+	  playlist_title view, countdown
+	  code cleanup
+
+E-xmms 1.2 involved some major changes to the backend.
+
+	* E-xmms now depends almost totally on xmms (specifically xmmsctrl.h).
+	* The above dependence also substantially decreased the size of
+	* the epplet, doing away with other unnecessary dependencies.
+
+E-xmms 1.1 incorporates my own changes to the epplet, which added/changed the following:
+
+	* Icon for the initial state.
+	* Icon while xmms loads.
+	* Moved initial buttons (start xmms, and close epplet)
+	* Added play-time above the progress bar.
+
+
